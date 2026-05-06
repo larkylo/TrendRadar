@@ -1,9 +1,3 @@
-好，你打开这个链接：
-https://github.com/larkylo/TrendRadar/edit/master/config/config.yaml
-
-
-登录后把里面的内容全部删掉，全部换成下面的：
-
 # TrendRadar 主配置
 
 filter:
